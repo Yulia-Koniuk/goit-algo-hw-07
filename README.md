@@ -1,4 +1,5 @@
-**Завдання 1**
+**Завдання 1** 
+
 Напишіть алгоритм (функцію), який знаходить найбільше значення у двійковому дереві пошуку або в AVL-дереві. Візьміть будь-яку реалізацію дерева з конспекту чи з іншого джерела.
 
 _Взято AVL-дерево, реалізована функція find_max_value для знаходження найбільшого значення. Функція реалізована для тестового масиву та тестового масиву після видалення двох значень масиву. \
@@ -11,7 +12,7 @@ Max value in the AVL Tree after deletions: 28_
 Напишіть алгоритм (функцію), який знаходить найменше значення у двійковому дереві пошуку або в AVL-дереві. Візьміть будь-яку реалізацію дерева з конспекту чи з іншого джерела.
 
 _Взято двійкове дерево, реалізована функція find_min_value для знаходження найменшого значення. Функція реалізована для тестового масиву та тестового масиву після видалення двох значень масиву. \
-Результат:  \
+Результат: \
 Minimum value in the Binary Search Tree: 2 \
 Minimum value in the Binary Search Tree after deletions of 2: 3_
 
@@ -25,7 +26,6 @@ _Взято AVL-дерево, реалізована функція find_max_val
 Max value in the AVL Tree: 85  \
 Min value in the AVL Tree: 5 \
 Sum of all values in the AVL Tree: 876 \
-
 Max value in the AVL Tree after deletions: 85 \
 Min value in the AVL Tree after deletions: 10 \
 Sum of all values in the AVL Tree after deletions: 816_
